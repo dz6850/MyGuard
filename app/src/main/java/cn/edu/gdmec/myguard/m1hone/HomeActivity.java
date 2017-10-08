@@ -21,7 +21,7 @@ import cn.edu.gdmec.myguard.m2theftguard.utils.MD5Utils;
 public class HomeActivity extends AppCompatActivity {
     private GridView gv_home;
     private long mExitTime;
-//
+//n
     private SharedPreferences msharedPreferences;
 
     @Override

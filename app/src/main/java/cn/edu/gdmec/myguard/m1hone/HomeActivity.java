@@ -23,7 +23,7 @@ public class HomeActivity extends AppCompatActivity {
     private long mExitTime;
 
     private SharedPreferences msharedPreferences;
-//nic
+//nice
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

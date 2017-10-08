@@ -83,7 +83,7 @@ public class VersionUpdateUtils {
                 versionEntity.description = jsonObject.getString("des");
                 versionEntity.apkurl = jsonObject.getString("apkurl");
                 if (!mVersion.equals(versionEntity.versioncode)) {
-                   //handler.sendEmptyMessage(MESSAGE_SHOW_DIALOG);
+                   handler.sendEmptyMessage(MESSAGE_SHOW_DIALOG);
                 }
             }
         } catch (IOException e) {

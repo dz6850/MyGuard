@@ -1,4 +1,4 @@
-package cn.edu.gdmec.myguard.m1hone;
+package cn.edu.gdmec.android.mobileguard.m1hone;
 
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -11,11 +11,11 @@ import android.widget.AdapterView;
 import android.widget.GridView;
 import android.widget.Toast;
 
-import cn.edu.gdmec.myguard.R;
-import cn.edu.gdmec.myguard.m1hone.adapter.HomeAdapter;
-import cn.edu.gdmec.myguard.m2theftguard.dialog.InterPasswordDialog;
-import cn.edu.gdmec.myguard.m2theftguard.dialog.SetupPaswrodDialong;
-import cn.edu.gdmec.myguard.m2theftguard.utils.MD5Utils;
+import cn.edu.gdmec.android.mobileguard.R;
+import cn.edu.gdmec.android.mobileguard.m1hone.adapter.HomeAdapter;
+import cn.edu.gdmec.android.mobileguard.m2theftguard.dialog.InterPasswordDialog;
+import cn.edu.gdmec.android.mobileguard.m2theftguard.dialog.SetupPaswrodDialong;
+import cn.edu.gdmec.android.mobileguard.m2theftguard.utils.MD5Utils;
 
 
 public class HomeActivity extends AppCompatActivity {

@@ -1,11 +1,11 @@
-package cn.edu.gdmec.myguard;
+package cn.edu.gdmec.android.mobileguard;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import cn.edu.gdmec.myguard.m1hone.utils.MyUtils;
-import cn.edu.gdmec.myguard.m1hone.utils.VersionUpdateUtils;
+import cn.edu.gdmec.android.mobileguard.m1hone.utils.MyUtils;
+import cn.edu.gdmec.android.mobileguard.m1hone.utils.VersionUpdateUtils;
 
 
 public class SplashActivity extends AppCompatActivity {

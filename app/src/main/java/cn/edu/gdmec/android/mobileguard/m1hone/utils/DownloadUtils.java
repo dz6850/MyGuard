@@ -1,4 +1,4 @@
-package cn.edu.gdmec.myguard.m1hone.utils;
+package cn.edu.gdmec.android.mobileguard.m1hone.utils;
 
 import android.app.DownloadManager;
 import android.content.Context;

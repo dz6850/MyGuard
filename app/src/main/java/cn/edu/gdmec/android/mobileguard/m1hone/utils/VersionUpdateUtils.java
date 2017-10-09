@@ -1,4 +1,4 @@
-package cn.edu.gdmec.myguard.m1hone.utils;
+package cn.edu.gdmec.android.mobileguard.m1hone.utils;
 
 import android.app.Activity;
 import android.app.AlertDialog;
@@ -21,9 +21,9 @@ import org.json.JSONObject;
 import java.io.IOException;
 
 
-import cn.edu.gdmec.myguard.R;
-import cn.edu.gdmec.myguard.m1hone.HomeActivity;
-import cn.edu.gdmec.myguard.m1hone.entity.VersionEntity;
+import cn.edu.gdmec.android.mobileguard.R;
+import cn.edu.gdmec.android.mobileguard.m1hone.HomeActivity;
+import cn.edu.gdmec.android.mobileguard.m1hone.entity.VersionEntity;
 
 /**
  * Created by ASUS PRO on 2017/9/17.

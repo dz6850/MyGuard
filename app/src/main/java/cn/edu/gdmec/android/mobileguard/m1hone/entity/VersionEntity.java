@@ -1,4 +1,4 @@
-package cn.edu.gdmec.myguard.m1hone.entity;
+package cn.edu.gdmec.android.mobileguard.m1hone.entity;
 
 /**
  * Created by Swindler on 2017/9/17.

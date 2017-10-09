@@ -1,4 +1,4 @@
-package cn.edu.gdmec.myguard.m1hone.adapter;
+package cn.edu.gdmec.android.mobileguard.m1hone.adapter;
 
 import android.content.Context;
 import android.view.View;
@@ -7,7 +7,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import cn.edu.gdmec.myguard.R;
+import cn.edu.gdmec.android.mobileguard.R;
 
 public class HomeAdapter extends BaseAdapter {
     int[] imageId = {R.drawable.safe,R.drawable.callmsgsafe,R.drawable.app,R.drawable.trojan,
